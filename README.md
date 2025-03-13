@@ -19,7 +19,7 @@ If you don't see your language of preference on the list of languages above, **_
 ## How to interact with this activity:
 1. Fork this repo
 2. Complete exercise with a language listed above (assuming you haven't chosen another, hipper language and discussed it with us)
-3. Provide a link to the completed exercise to Jenny Hove [jenny.hove@sogeti.com]
+3. Provide a link to the completed exercise to Emma Schreiber [emma.schreiber@capgemini.com]
 4. Receive personalized code review/feedback session from our technical team
 
 
